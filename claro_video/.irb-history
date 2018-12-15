@@ -1,0 +1,5 @@
+start_test_in_server_b
+start_test_server_in_background
+query("ImageButton")
+flash("android.widget.ImageButton")
+exit-program
